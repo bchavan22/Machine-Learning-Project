@@ -1,11 +1,13 @@
-# Machine-Learning-Project
-
+# Python Projects
+ 
 Project Proposal
 
 Project Name
 
 To Predict Salary Income with The Help of Machine Learning Model 
 
+
+ 
 
 INTRODUCTION
 
@@ -49,6 +51,7 @@ The main aim of project to gain experience in versatile machine learning subject
 Using Tools:
 
 We have decided to use Jupyter notebook and google colab, machine learning library to ease programming work.
+
 
 
 
