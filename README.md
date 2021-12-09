@@ -4,7 +4,7 @@
 
 **Project Name**
 
-**To Predict Salary Income with The Help of Machine Learning Model **
+**To Predict Salary Income with The Help of Machine Learning Model**
 
 
  
