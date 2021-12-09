@@ -1,15 +1,15 @@
 # Python Projects
  
-Project Proposal
+**Project Proposal**
 
-Project Name
+**Project Name**
 
-To Predict Salary Income with The Help of Machine Learning Model 
+**To Predict Salary Income with The Help of Machine Learning Model **
 
 
  
 
-INTRODUCTION
+**INTRODUCTION**
 
 To perform prediction analysis, I and my other project partner has been chosen the US Adult Census dataset which has 48,842 sample set with 15 features in data, extracted from US census database.
 
